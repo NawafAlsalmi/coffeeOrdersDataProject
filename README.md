@@ -1,6 +1,7 @@
 # coffeeOrdersDataProject
 
 📊 Project Overview
+
 This GitHub project showcases an Excel-based data analysis of coffee sales data, where I transformed raw order records into an interactive sales dashboard. The goal was to clean, analyze, and visualize sales trends by coffee type, customer demographics, and time periods to extract meaningful business insights.
 
 🔍 Key Features
